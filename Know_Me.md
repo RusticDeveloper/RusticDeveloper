@@ -1,5 +1,5 @@
 # About me 
-Hi, I´m Daniel a programer who wants to keep growing, getting knowledge from each of the difficulties in my projects
+Hi, I´m Daniel a programmer who wants to keep growing, getting knowledge from each of the difficulties in my projects
 
 > A person must be defined for the resilience and the lack of innactivity each one have
 >
